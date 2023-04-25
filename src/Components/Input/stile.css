@@ -1,0 +1,15 @@
+.inmut{
+    padding:0 10px;
+    width: 252px;
+    height: 50px;
+}
+.form{
+    display: flex;
+    gap: 10px;
+    padding: 30px 0;
+}
+.inmutChec{
+    width: 20px;
+    height: 15px;
+}
+

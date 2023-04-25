@@ -1,0 +1,41 @@
+.rov{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+h1{
+    color: black;
+}
+.table__head{
+    color: blue;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    
+}
+.remov{
+    width: 130px;
+}
+.table__head__id{
+    padding:20px 0 0px 20px !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.table__head__Chec{
+    width: 150px;
+    padding:20px 0 0px 20px !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.table__head__id:hover{
+    background-color: rgb(240, 237, 234) ;
+    color: black;
+
+}
+.table__head__Chec:hover{
+    background-color: rgb(240, 237, 234) ;
+    color: black;
+}
+.alert__title{
+    text-align: center;
+    color:blue;
+}
